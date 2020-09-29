@@ -15,3 +15,4 @@ func update_color():
 
 func _on_HUD_changed():
 	update_color()
+
